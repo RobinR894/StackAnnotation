@@ -21,7 +21,7 @@ public class MyStringStackTest extends TestCase {
 	}
 	@Before
 	public void setUp() throws Exception {
-		s1 = "Hello";
+		s1  "Hello";
 		s2 = "there";	
 	}
 
